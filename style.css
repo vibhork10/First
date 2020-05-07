@@ -1,0 +1,15 @@
+  h1{
+        color: red;
+        text-align: center;
+      }
+      div{
+        background-color: teal;
+        width: 100px;
+        height: 400px;
+        margin: 30px;
+        padding: 20px;
+        font-family: Arial,sans-serif;
+        font-size: 29px;
+        font-weight: bold;
+        border: 3px dotted yellow;
+      }
